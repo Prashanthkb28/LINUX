@@ -1,0 +1,14 @@
+
+user:raju123
+format : question,answer given,time taken
+
+1.  How many types of shells are there in the linux?,,5
+2.  which command to delete a single character in vi editor?,a)x ,6
+3.  In linux which option of rm command is used to remove a directory with sudirectories?,timed out
+4.  Which command is used to get no of lines in a file?,c)wcount,0
+5.  Which is the core part of linux in OS?,b)kernel ,5
+6.  Which represents a root directory?,a)/,2
+7.  In which of following directory contains device files?,a)dev,2
+8.  Which command is used to view hidden file?,a)ls-a,3
+9.  Which is used to get total number of CLA's?,c)$@ ,3
+10.  which command used to create an empty file in linux?,d)touch,3

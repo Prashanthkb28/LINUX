@@ -1,0 +1,14 @@
+
+user:rahul123
+format : question,answer given,time taken
+
+1.  Which command is used to view hidden file?,a)ls-a,3
+2.  which command used to create an empty file in linux?,timed out
+3.  Which is used to get total number of CLA's?,d)$#,3
+4.  which command to delete a single character in vi editor?,a)x ,4
+5.  Which is the core part of linux in OS?,b)kernel ,4
+6.  Which represents a root directory?,a)/,2
+7.  In which of following directory contains device files?,b)bin ,2
+8.  How many types of shells are there in the linux?,,4
+9.  In linux which option of rm command is used to remove a directory with subdirectories?,c)rm-r,3
+10.  Which command is used to get no of lines in a file?,b)wc-l ,4

@@ -1,0 +1,59 @@
+1. In linux which option of rm command is used to remove a directory with subdirectories?|c
+a)rmdir
+b)rm
+c)rm-r
+d)rmdir -p
+
+2. In which of following directory contains device files?|a
+a)dev
+b)bin 
+c)root 
+d)etc
+
+3. How many types of shells are there in the linux?|b
+a)1 
+b)2 
+c)3 
+d)4
+
+4. Which command is used to get no of lines in a file?|b
+a)wc
+b)wc-l 
+c)wcount
+d)count|file.txt
+
+5. which command to delete a single character in vi editor?|a
+a)x 
+b)s 
+c)d 
+d)xx
+
+6. Which represents a root directory?|a
+a)/
+b)@ 
+c)~ 
+d)$
+ 
+7. Which is the core part of linux in OS?|b
+a)terminal
+b)kernel 
+c)command 
+d)bash
+
+8. Which command is used to view hidden file?|a
+a)ls-a
+b)ls-h 
+c)ls-l
+d)ls-i
+
+9. which command used to create an empty file in linux?|d
+a)mkdir
+b)vi 
+c)make 
+d)touch
+
+10. Which is used to get total number of CLA's?|d
+a)$$
+b)$0 
+c)$@ 
+d)$#

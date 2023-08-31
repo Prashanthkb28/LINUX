@@ -1,0 +1,42 @@
+
+user:ram123
+format : question,answer given,time taken
+
+1.  In which of following directory contains device files?,a)dev,2
+2.  Which is used to get total number of CLA's?,d)$#,2
+3.  In linux which option of rm command is used to remove a directory with subdirectories?,c)rm-r,3
+4.  which command to delete a single character in vi editor?,a)x ,2
+5.  which command used to create an empty file in linux?,d)touch,3
+6.  Which command is used to get no of lines in a file?,b)wc-l ,4
+7.  Which represents a root directory?,a)/,4
+8.  How many types of shells are there in the linux?,b)2 ,3
+9.  Which command is used to view hidden file?,a)ls-a,2
+10.  Which is the core part of linux in OS?,b)kernel ,5
+
+user:ram123
+format : question,answer given,time taken
+
+1.  In linux which option of rm command is used to remove a directory with subdirectories?,a)rmdir,2
+2.  Which is the core part of linux in OS?,b)kernel ,2
+3.  which command used to create an empty file in linux?,d)touch,2
+4.  Which is used to get total number of CLA's?,d)$#,1
+5.  Which command is used to get no of lines in a file?,b)wc-l ,2
+6.  Which command is used to view hidden file?,d)ls-i,2
+7.  Which represents a root directory?,a)/,2
+8.  In which of following directory contains device files?,a)dev,1
+9.  which command to delete a single character in vi editor?,a)x ,1
+10.  How many types of shells are there in the linux?,b)2 ,2
+
+user:ram123
+format : question,answer given,time taken
+
+1.  Which command is used to get no of lines in a file?,timed out
+2.  Which represents a root directory?,timed out
+3.  In linux which option of rm command is used to remove a directory with subdirectories?,timed out
+4.  Which command is used to view hidden file?,timed out
+5.  Which is used to get total number of CLA's?,timed out
+6.  which command to delete a single character in vi editor?,timed out
+7.  In which of following directory contains device files?,timed out
+8.  How many types of shells are there in the linux?,timed out
+9.  Which is the core part of linux in OS?,timed out
+10.  which command used to create an empty file in linux?,timed out

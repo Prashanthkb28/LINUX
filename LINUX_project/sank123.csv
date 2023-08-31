@@ -1,0 +1,42 @@
+
+user:sank123
+format : question,answer given,time taken
+
+1.  which command to delete a single character in vi editor?,a)x ,3
+2.  How many types of shells are there in the linux?,b)2 ,2
+3.  Which represents a root directory?,a)/,2
+4.  Which is the core part of linux in OS?,b)kernel ,2
+5.  In which of following directory contains device files?,a)dev,2
+6.  Which is used to get total number of CLA's?,d)$#,3
+7.  In linux which option of rm command is used to remove a directory with subdirectories?,c)rm-r,3
+8.  Which command is used to get no of lines in a file?,b)wc-l ,3
+9.  which command used to create an empty file in linux?,d)touch,2
+10.  Which command is used to view hidden file?,a)ls-a,2
+
+user:sank123
+format : question,answer given,time taken
+
+1.  Which command is used to view hidden file?,timed out
+2.  In which of following directory contains device files?,timed out
+3.  which command to delete a single character in vi editor?,timed out
+4.  Which command is used to get no of lines in a file?,timed out
+5.  Which is used to get total number of CLA's?,timed out
+6.  In linux which option of rm command is used to remove a directory with subdirectories?,timed out
+7.  which command used to create an empty file in linux?,timed out
+8.  How many types of shells are there in the linux?,timed out
+9.  Which represents a root directory?,timed out
+10.  Which is the core part of linux in OS?,timed out
+
+user:sank123
+format : question,answer given,time taken
+
+1.  Which represents a root directory?,a)/,6
+2.  Which is the core part of linux in OS?,b)kernel ,3
+3.  Which is used to get total number of CLA's?,d)$#,7
+4.  In which of following directory contains device files?,a)dev,2
+5.  In linux which option of rm command is used to remove a directory with subdirectories?,b)rm,2
+6.  which command used to create an empty file in linux?,d)touch,3
+7.  Which command is used to get no of lines in a file?,b)wc-l ,3
+8.  Which command is used to view hidden file?,a)ls-a,3
+9.  which command to delete a single character in vi editor?,,3
+10.  How many types of shells are there in the linux?,,4

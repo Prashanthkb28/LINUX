@@ -1,0 +1,385 @@
+Aug 26 22:09:28 User using script
+Aug 26 22:09:30 User prompted with options
+Aug 26 22:09:30 User decided to signup
+Aug 26 22:10:18 Signup successfull
+Aug 26 22:10:18 prash123 signed up
+Aug 26 22:10:20 User prompted to continue or exit
+Aug 26 22:10:30 User decided to continue
+Aug 26 22:10:30 User using script
+Aug 26 22:10:39 User prompted with options
+Aug 26 22:10:39 User using script
+Aug 26 22:10:43 User prompted with options
+Aug 26 22:10:43 User chose to signin
+Aug 26 22:10:50 Invalid username entered.Prompted to enter again
+Aug 26 22:11:04 Invalid username entered.Prompted to enter again
+Aug 26 22:11:48 User using script
+Aug 26 22:11:50 User prompted with options
+Aug 26 22:11:50 User decided to signup
+Aug 26 22:12:53 User using script
+Aug 26 22:12:55 User prompted with options
+Aug 26 22:12:55 User decided to signup
+Aug 26 22:13:12 Signup successfull
+Aug 26 22:13:12 p123 signed up
+Aug 26 22:13:14 User prompted to continue or exit
+Aug 26 22:13:18 User decided to continue
+Aug 26 22:13:18 User using script
+Aug 26 22:13:22 User prompted with options
+Aug 26 22:13:22 User chose to signin
+Aug 26 22:13:26 Invalid username entered.Prompted to enter again
+Aug 26 22:13:32 Invalid username entered.Prompted to enter again
+Aug 26 22:14:17 User using script
+Aug 26 22:14:18 User prompted with options
+Aug 26 22:14:18 User decided to signup
+Aug 26 22:14:45 Signup successfull
+Aug 26 22:14:45 p123 signed up
+Aug 26 22:14:48 User prompted to continue or exit
+Aug 26 22:14:51 User decided to continue
+Aug 26 22:14:51 User using script
+Aug 26 22:14:53 User prompted with options
+Aug 26 22:14:53 User chose to signin
+Aug 26 22:15:02 Signin Successfull
+Aug 26 22:15:02 p123 signed in
+Aug 26 22:15:10 User decided to take test
+Aug 26 22:16:15 Test completed by the user
+Aug 26 22:16:40 User prompted to continue or exit
+Aug 26 22:16:44 User decided to exit
+Aug 26 22:33:51 User using script
+Aug 26 22:33:54 User prompted with options
+Aug 26 22:33:54 User decided to signup
+Aug 26 22:34:15 Signup successfull
+Aug 26 22:34:15 raju123 signed up
+Aug 26 22:34:18 User prompted to continue or exit
+Aug 26 22:34:29 User decided to continue
+Aug 26 22:34:29 User using script
+Aug 26 22:34:32 User prompted with options
+Aug 26 22:34:32 User chose to signin
+Aug 26 22:34:48 Signin Successfull
+Aug 26 22:34:48 raju123 signed in
+Aug 26 22:34:53 User decided to take test
+Aug 26 22:35:58 Test completed by the user
+Aug 26 22:37:26 User prompted to continue or exit
+Aug 26 22:37:33 User decided to continue
+Aug 26 22:37:33 User using script
+Aug 26 22:37:36 User prompted with options
+Aug 26 22:37:36 User decided to exit script
+Aug 26 22:50:48 User using script
+Aug 26 22:50:51 User prompted with options
+Aug 26 22:50:51 User decided to signup
+Aug 26 22:50:55 Pre-existing username entered.Prompted to enter again
+Aug 26 22:51:38 User using script
+Aug 26 22:51:43 User prompted with options
+Aug 26 22:51:43 User using script
+Aug 26 22:51:48 User prompted with options
+Aug 26 22:51:48 User decided to signup
+Aug 26 22:52:08 Re-entered password not matching.Prompted to enter again
+Aug 26 22:52:22 Signup successfull
+Aug 26 22:52:22 sank123 signed up
+Aug 26 22:52:24 User prompted to continue or exit
+Aug 26 22:52:28 User decided to continue
+Aug 26 22:52:28 User using script
+Aug 26 22:52:31 User prompted with options
+Aug 26 22:52:31 User chose to signin
+Aug 26 22:52:40 Signin Successfull
+Aug 26 22:52:40 sank123 signed in
+Aug 26 22:52:44 User decided to take test
+Aug 26 22:53:35 Test completed by the user
+Aug 26 22:53:53 User prompted to continue or exit
+Aug 26 22:53:56 User decided to exit
+Aug 26 23:01:01 User using script
+Aug 26 23:01:03 User prompted with options
+Aug 26 23:01:03 User decided to signup
+Aug 26 23:01:20 Signup successfull
+Aug 26 23:01:20 sanj123 signed up
+Aug 26 23:01:22 User prompted to continue or exit
+Aug 26 23:01:27 User decided to continue
+Aug 26 23:01:27 User using script
+Aug 26 23:01:29 User prompted with options
+Aug 26 23:01:29 User chose to signin
+Aug 26 23:01:35 Invalid password entered.Prompted to enter again
+Aug 26 23:01:40 Signin Successfull
+Aug 26 23:01:40 sanj123 signed in
+Aug 26 23:01:46 User decided to take test
+Aug 26 23:02:36 Test completed by the user
+Aug 26 23:02:50 User prompted to continue or exit
+Aug 26 23:02:54 User decided to continue
+Aug 26 23:02:54 User using script
+Aug 26 23:02:58 User prompted with options
+Aug 26 23:02:58 User decided to signup
+Aug 26 23:03:05 Pre-existing username entered.Prompted to enter again
+Aug 26 23:08:29 User using script
+Aug 26 23:08:39 Script timedout
+Aug 26 23:08:41 Script timed out.Propmted with option
+Aug 26 23:08:47 User decided to exit script
+Aug 27 13:43:48 User using script
+Aug 27 13:43:54 User prompted with options
+Aug 27 13:43:54 User chose to signin
+Aug 27 13:44:06 Signin Successfull
+Aug 27 13:44:06 sank123 signed in
+Aug 27 13:44:14 User decided to take test
+Aug 27 13:44:42 Test completed by the user
+Aug 27 13:44:50 User prompted to continue or exit
+Aug 27 13:44:54 User decided to continue
+Aug 27 13:44:54 User using script
+Aug 27 13:45:00 User prompted with options
+Aug 27 13:45:00 User chose to signin
+Aug 27 13:45:10 Signin Successfull
+Aug 27 13:45:10 sank123 signed in
+Aug 27 13:45:14 User decided to take test
+Aug 27 13:46:17 Test completed by the user
+Aug 27 13:48:06 User prompted to continue or exit
+Aug 27 13:48:11 User decided to exit
+Aug 27 13:50:41 User using script
+Aug 27 13:50:44 User prompted with options
+Aug 27 13:50:44 User decided to signup
+Aug 27 13:51:04 Signup successfull
+Aug 27 13:51:04 rahul123 signed up
+Aug 27 13:51:06 User prompted to continue or exit
+Aug 27 13:51:09 User decided to continue
+Aug 27 13:51:09 User using script
+Aug 27 13:51:19 User prompted with options
+Aug 27 13:51:19 User decided to signup
+Aug 27 13:51:24 Pre-existing username entered.Prompted to enter again
+Aug 27 13:51:32 Invalid username entered.Prompted to enter again
+Aug 27 13:51:40 User using script
+Aug 27 13:51:43 User prompted with options
+Aug 27 13:51:44 User chose to signin
+Aug 27 13:51:53 Signin Successfull
+Aug 27 13:51:53 rahul123 signed in
+Aug 27 13:51:57 User decided to take test
+Aug 27 13:53:04 Test completed by the user
+Aug 27 13:53:41 User prompted to continue or exit
+Aug 27 13:53:44 User decided to continue
+Aug 27 13:53:44 User using script
+Aug 27 13:53:49 User prompted with options
+Aug 27 13:53:49 User decided to exit script
+Aug 27 19:21:15 User using script
+Aug 27 19:21:25 Script timedout
+Aug 27 19:21:27 Script timed out.Propmted with option
+Aug 27 19:21:35 User decided to exit script
+Aug 27 19:21:41 User using script
+Aug 27 19:21:45 User prompted with options
+Aug 27 19:21:45 User decided to signup
+Aug 27 19:22:00 Invalid username entered.Prompted to enter again
+Aug 27 19:22:54 Signup successfull
+Aug 27 19:22:54 qwe123 signed up
+Aug 27 19:22:56 User prompted to continue or exit
+Aug 27 19:23:06 User decided to continue
+Aug 27 19:23:06 User using script
+Aug 27 19:23:12 User prompted with options
+Aug 27 19:23:12 User chose to signin
+Aug 27 19:23:42 Invalid password entered.Prompted to enter again
+Aug 27 19:23:46 Invalid password entered.Prompted to enter again
+Aug 27 19:23:52 Signin Successfull
+Aug 27 19:23:52 qwe123 signed in
+Aug 27 19:24:00 User decided to take test
+Aug 27 19:24:57 Test completed by the user
+Aug 27 19:25:29 User prompted to continue or exit
+Aug 27 19:25:32 User decided to exit
+Aug 27 19:38:44 User using script
+Aug 27 19:38:47 User prompted with options
+Aug 27 19:38:47 User decided to signup
+Aug 27 19:39:22 User using script
+Aug 27 19:39:24 User prompted with options
+Aug 27 19:39:24 User decided to signup
+Aug 27 19:39:38 Pre-existing username entered.Prompted to enter again
+Aug 31 17:27:44 User using script
+Aug 31 17:27:54 Script timedout
+Aug 31 17:27:56 Script timed out.Propmted with option
+Aug 31 17:28:00 User decided to exit script
+Aug 31 17:29:29 User using script
+Aug 31 17:29:39 Script timedout
+Aug 31 17:29:41 Script timed out.Propmted with option
+Aug 31 17:29:41 User decided to exit script
+Aug 31 17:30:54 User using script
+Aug 31 17:30:56 User prompted with options
+Aug 31 17:30:56 User decided to signup
+Aug 31 17:31:05 Invalid username entered.Prompted to enter again
+Aug 31 17:31:22 Pre-existing username entered.Prompted to enter again
+Aug 31 17:31:47 Signup successfull
+Aug 31 17:31:47 ravi123 signed up
+Aug 31 17:31:49 User prompted to continue or exit
+Aug 31 17:31:56 User decided to continue
+Aug 31 17:31:56 User using script
+Aug 31 17:31:59 User prompted with options
+Aug 31 17:31:59 User chose to signin
+Aug 31 17:32:08 Invalid username entered.Prompted to enter again
+Aug 31 17:32:18 Invalid username entered.Prompted to enter again
+Aug 31 17:32:24 User using script
+Aug 31 17:32:28 User prompted with options
+Aug 31 17:32:28 User decided to signup
+Aug 31 17:32:43 Signup successfull
+Aug 31 17:32:43 ravi123 signed up
+Aug 31 17:32:45 User prompted to continue or exit
+Aug 31 17:32:46 User decided to continue
+Aug 31 17:32:47 User using script
+Aug 31 17:32:49 User prompted with options
+Aug 31 17:32:49 User chose to signin
+Aug 31 17:33:17 Invalid password entered.Prompted to enter again
+Aug 31 17:33:22 Invalid password entered.Prompted to enter again
+Aug 31 17:33:32 Invalid password entered.Prompted to enter again
+Aug 31 17:35:58 User using script
+Aug 31 17:36:00 User prompted with options
+Aug 31 17:36:00 User decided to signup
+Aug 31 17:36:18 Signup successfull
+Aug 31 17:36:18 mon123 signed up
+Aug 31 17:36:20 User prompted to continue or exit
+Aug 31 17:36:23 User decided to continue
+Aug 31 17:36:23 User using script
+Aug 31 17:36:25 User prompted with options
+Aug 31 17:36:25 User chose to signin
+Aug 31 17:36:33 Signin Successfull
+Aug 31 17:36:33 mon123 signed in
+Aug 31 17:36:38 User decided to take test
+Aug 31 17:38:43 User using script
+Aug 31 17:38:45 User prompted with options
+Aug 31 17:38:45 User chose to signin
+Aug 31 17:38:51 Signin Successfull
+Aug 31 17:38:51 mon123 signed in
+Aug 31 17:38:55 User decided to take test
+Aug 31 17:39:40 User using script
+Aug 31 17:39:41 User prompted with options
+Aug 31 17:39:41 User chose to signin
+Aug 31 17:39:47 Signin Successfull
+Aug 31 17:39:47 mon123 signed in
+Aug 31 17:39:51 User decided to take test
+Aug 31 17:40:33 Test completed by the user
+Aug 31 17:40:45 User prompted to continue or exit
+Aug 31 17:40:48 User decided to exit
+Aug 31 17:52:14 User using script
+Aug 31 17:52:18 User prompted with options
+Aug 31 17:52:18 User chose to signin
+Aug 31 17:52:26 Signin Successfull
+Aug 31 17:52:26 mon123 signed in
+Aug 31 17:52:42 User prompted to continue or exit
+Aug 31 17:52:42 User decided to exit
+Aug 31 17:52:48 User using script
+Aug 31 17:52:50 User prompted with options
+Aug 31 17:52:50 User chose to signin
+Aug 31 17:52:56 Signin Successfull
+Aug 31 17:52:56 mon123 signed in
+Aug 31 17:53:01 User decided to take test
+Aug 31 17:53:56 Test completed by the user
+Aug 31 17:53:58 User prompted to continue or exit
+Aug 31 17:54:03 User decided to exit
+Aug 31 17:54:31 User using script
+Aug 31 17:54:33 User prompted with options
+Aug 31 17:54:33 User chose to signin
+Aug 31 17:54:40 Signin Successfull
+Aug 31 17:54:40 mon123 signed in
+Aug 31 17:54:51 User prompted to continue or exit
+Aug 31 17:54:54 User decided to continue
+Aug 31 17:54:54 User using script
+Aug 31 17:54:59 User prompted with options
+Aug 31 17:54:59 User decided to exit script
+Aug 31 18:01:31 User using script
+Aug 31 18:01:34 User prompted with options
+Aug 31 18:01:34 User chose to signin
+Aug 31 18:01:40 Signin Successfull
+Aug 31 18:01:40 mon123 signed in
+Aug 31 18:01:48 User decided to take test
+Aug 31 18:02:38 Test completed by the user
+Aug 31 18:02:48 User prompted to continue or exit
+Aug 31 18:02:52 User decided to exit
+Aug 31 18:36:08 User using script
+Aug 31 18:36:14 User prompted with options
+Aug 31 18:36:14 User chose to signin
+Aug 31 18:36:21 Signin Successfull
+Aug 31 18:36:21 mon123 signed in
+Aug 31 18:36:26 User decided to take test
+Aug 31 18:37:24 Test completed by the user
+Aug 31 18:37:36 User prompted to continue or exit
+Aug 31 18:37:39 User decided to continue
+Aug 31 18:37:40 User using script
+Aug 31 18:37:49 User prompted with options
+Aug 31 18:37:49 User chose to signin
+Aug 31 18:37:56 Signin Successfull
+Aug 31 18:37:56 mon123 signed in
+Aug 31 18:38:01 User prompted to continue or exit
+Aug 31 18:38:26 User decided to exit
+Aug 31 18:58:05 User using script
+Aug 31 18:59:13 User using script
+Aug 31 18:59:28 Script timedout
+Aug 31 18:59:30 Script timed out.Propmted with option
+Aug 31 18:59:33 User decided to exit script
+Aug 31 19:00:43 User using script
+Aug 31 19:00:59 Script timedout
+Aug 31 19:01:01 Script timed out.Propmted with option
+Aug 31 19:15:31 User decided to exit script
+Aug 31 19:28:13 User using script
+Aug 31 19:28:15 User prompted with options
+Aug 31 19:28:15 User decided to signup
+Aug 31 19:28:31 Signup successfull
+Aug 31 19:28:31 ram123 signed up
+Aug 31 19:28:33 User prompted to continue or exit
+Aug 31 19:28:36 User decided to continue
+Aug 31 19:28:36 User using script
+Aug 31 19:28:38 User prompted with options
+Aug 31 19:28:38 User chose to signin
+Aug 31 19:28:42 Invalid username entered.Prompted to enter again
+Aug 31 19:28:48 Invalid password entered.Prompted to enter again
+Aug 31 19:28:52 Invalid password entered.Prompted to enter again
+Aug 31 19:28:56 Signin Successfull
+Aug 31 19:28:56 ram123 signed in
+Aug 31 19:29:01 User prompted to continue or exit
+Aug 31 19:29:37 User decided to exit
+Aug 31 19:39:38 User using script
+Aug 31 19:39:41 User prompted with options
+Aug 31 19:39:41 User chose to signin
+Aug 31 19:39:48 Signin Successfull
+Aug 31 19:39:49 ram123 signed in
+Aug 31 19:39:53 User decided to take test
+Aug 31 19:40:56 Test completed by the user
+Aug 31 19:41:32 User prompted to continue or exit
+Aug 31 19:41:32 User decided to exit
+Aug 31 19:42:45 User using script
+Aug 31 19:42:49 User prompted with options
+Aug 31 19:42:49 User chose to signin
+Aug 31 19:42:58 Signin Successfull
+Aug 31 19:42:58 ram123 signed in
+Aug 31 19:43:02 User decided to take test
+Aug 31 19:43:53 Test completed by the user
+Aug 31 19:44:37 User prompted to continue or exit
+Aug 31 19:44:44 User decided to exit
+Aug 31 19:46:11 User using script
+Aug 31 19:46:14 User prompted with options
+Aug 31 19:46:15 User chose to signin
+Aug 31 19:46:30 Signin Successfull
+Aug 31 19:46:30 ram123 signed in
+Aug 31 19:46:33 User decided to take test
+Aug 31 19:46:56 Test completed by the user
+Aug 31 19:46:58 User prompted to continue or exit
+Aug 31 19:46:58 User decided to exit
+Aug 31 19:47:05 User using script
+Aug 31 19:47:08 User prompted with options
+Aug 31 19:47:08 User chose to signin
+Aug 31 19:47:22 Signin Successfull
+Aug 31 19:47:22 mon123 signed in
+Aug 31 19:47:26 User decided to take test
+Aug 31 19:48:04 Test completed by the user
+Aug 31 19:48:08 User prompted to continue or exit
+Aug 31 19:48:17 User decided to exit
+Aug 31 19:50:48 User using script
+Aug 31 19:50:50 User prompted with options
+Aug 31 19:50:50 User chose to signin
+Aug 31 19:50:56 Signin Successfull
+Aug 31 19:50:56 mon123 signed in
+Aug 31 19:51:00 User decided to take test
+Aug 31 19:51:57 Test completed by the user
+Aug 31 19:52:12 User prompted to continue or exit
+Aug 31 19:52:21 User decided to exit
+Aug 31 19:56:13 User using script
+Aug 31 19:56:18 User prompted with options
+Aug 31 19:56:18 User decided to signup
+Aug 31 19:56:37 Signup successfull
+Aug 31 19:56:37 abhi123 signed up
+Aug 31 19:56:39 User prompted to continue or exit
+Aug 31 19:56:41 User decided to continue
+Aug 31 19:56:41 User using script
+Aug 31 19:56:44 User prompted with options
+Aug 31 19:56:44 User chose to signin
+Aug 31 19:56:54 Signin Successfull
+Aug 31 19:56:54 abhi123 signed in
+Aug 31 19:56:57 User decided to take test
+Aug 31 19:57:35 Test completed by the user
+Aug 31 19:57:52 User prompted to continue or exit
+Aug 31 19:57:54 User decided to exit
